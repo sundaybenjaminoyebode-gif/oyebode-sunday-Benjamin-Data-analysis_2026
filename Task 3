@@ -1,0 +1,10 @@
+📂 Hormone-Analysis-Assignment
+ ├── 📂 data
+ │    └── Hormone_Analysis_Summary.csv       
+ ├── 📂 scripts
+ │    └── analysis_script.R                  
+ ├── 📂 output
+ │    ├── Statistical_Plots_Appendix.pdf     
+ │    └── correlation_heatmap.png           
+ ├── README.md                               
+ └── Final_Assignment_Report.pdf            
